@@ -1,0 +1,78 @@
+title
+"Simple Calculator App"
+languages
+"React"
+overview
+"A simple calculator app for arithmetic operation using React technolog…"
+github
+"https://github.com/Mizna-K-A/CalculatorAPP"
+website
+"https://calculator-app-react-test.netlify.app/"
+projectImg
+"image 1729778587456-calculator.png"
+userId
+"670e1b0abf9ff34bfe25a88c"
+__v
+0
+
+
+
+title
+"Quiz App"
+languages
+"React"
+overview
+"A react quiz app "
+github
+"https://github.com/Mizna-K-A/React-Quiz-App"
+website
+"https://react-quiz-app-task15.netlify.app/"
+projectImg
+"image 1729837151201-counter.png"
+userId
+"670e1b0abf9ff34bfe25a88c"
+
+
+
+title
+"Weather app"
+languages
+"React,Redux"
+overview
+"a Weather using react"
+github
+"https://github.com/Mizna-K-A/All-Weather-app"
+website
+"https://weather-all-react-app.netlify.app/"
+projectImg
+"image 1729491586149-weather.png"
+
+
+
+title
+"Employee Managment App"
+languages
+"React,Redux"
+overview
+"A employee management app "
+github
+"https://github.com/Mizna-K-A/Employee-Management"
+website
+"https://employee-management-test.netlify.app/"
+projectImg
+"image 1729491755190-employee.png"
+
+
+
+title
+"Counter App"
+languages
+"React"
+overview
+"A react Counter App"
+github
+"https://github.com/Mizna-K-A/CounterApp"
+website
+"https://counter-app-redux-app.netlify.app/"
+projectImg
+"image 1729491905755-counter.png"
